@@ -2,3 +2,4 @@
 - avocado
 - salt
 # Instructions
+- mash avocado
