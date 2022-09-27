@@ -10,3 +10,9 @@ git status
 # add/remove files from version control
 git add *
 git rm --cached <file>
+
+# commit changes
+git commit -m "A description of the commit"
+
+# check log
+git log

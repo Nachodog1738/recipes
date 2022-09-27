@@ -1,2 +1,4 @@
 # Ingredients
+- avocado
+- salt
 # Instructions
