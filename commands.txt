@@ -1,0 +1,12 @@
+file TEXT.txt
+git config --global user.name "Jean-Luc"
+git config --list
+git config --help
+
+# start version control
+git init
+git status
+
+# add/remove files from version control
+git add *
+git rm --cached <file>
