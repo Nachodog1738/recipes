@@ -1,8 +1,9 @@
 # Ingredients
 - avocado
 - salt
-- toast
+- toast (bread)
 - love
 - more toast
+- peper
 # Instructions
 - mash avocado
