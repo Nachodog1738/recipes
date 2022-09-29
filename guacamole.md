@@ -1,7 +1,7 @@
 # Ingredients
 - avocado
 - salt
-- toast
+- toast (bread)
 - love
 - peper
 # Instructions
